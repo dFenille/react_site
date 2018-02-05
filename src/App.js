@@ -23,7 +23,7 @@ class App extends Component {
 
         <div className="row">
           <div className="col-md-12">
-              <p>Ja já estaremos ON FIRE! </p>
+              <p>Ja já estaremos ON FIRE!!! </p>
           </div>
         </div>
       </div>
